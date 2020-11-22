@@ -1,0 +1,32 @@
+{
+  "events": [
+    {
+      "id": 0,
+      "name": "Evento - 0",
+      "description": "Descrição",
+      "date": "SEG. 09 NOV. 2020",
+      "hour": "12:00"
+    },
+    {
+      "id": 1,
+      "name": "Evento - 2",
+      "description": "Descrição",
+      "date": "SEG. 09 NOV. 2020",
+      "hour": "12:00"
+    },
+    {
+      "id": 2,
+      "name": "Evento - 3",
+      "description": "Descrição",
+      "date": "SEG. 09 NOV. 2020",
+      "hour": "12:00"
+    },
+    {
+      "id": 3,
+      "name": "Evento - 4",
+      "description": "Descrição",
+      "date": "SEG. 09 NOV. 2020",
+      "hour": "12:00"
+    }
+  ]
+}
