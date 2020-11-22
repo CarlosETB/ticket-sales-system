@@ -1,46 +1,64 @@
-# Getting Started with Create React App
+# Ticket Sales System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- PROJECT SHIELDS -->
 
-## Available Scripts
+[![GitHub issues](https://img.shields.io/github/issues-raw/CarlosETB/happy-mobile.svg)](https://github.com/CarlosETB/happy-mobile/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/CarlosETB/happy-mobile.svg)](https://github.com/CarlosETB/happy-mobile/commits/main)
+![GitHub language count](https://img.shields.io/github/languages/count/CarlosETB/happy-mobile?color=%2304D361)
+![GitHub repository size](https://img.shields.io/github/repo-size/CarlosETB/happy-mobile)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/CarlosETB/happy-mobile/stargazers)
 
-In the project directory, you can run:
+<br />
 
-### `yarn start`
+<!-- TABLE OF CONTENTS -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Tabela de Conteúdo
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [Tabela de Conteúdo](#tabela-de-conte%C3%BAdo)
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Utilizando](#utilizando)
+- [Tecnologias](#tecnologias)
+- [Licença](#licen%C3%A7a)
 
-### `yarn test`
+<br />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- ABOUT THE PROJECT -->
 
-### `yarn build`
+## Sobre o Projeto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Protipo de sistema para gerenciamento de ingressos
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<!-- USING -->
 
-### `yarn eject`
+## Utilizando
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Para iniciar o servidor
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```sh
+    yarn start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<br />
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Tecnologias
 
-## Learn More
+As seguintes ferramentas foram usadas na construção do projeto:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **[React](https://pt-br.reactjs.org/)**
+- **[React - Native](https://reactnative.dev/)**
+- **[JavaScript](https://www.javascript.com/)**
+- **[TypeScript](https://www.typescriptlang.org/)**
+- **[Styled Components](https://styled-components.com/)**
+- **[React Slick](https://react-slick.neostack.com/)**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+\* Veja o arquivo <kbd>[package.json](./package.json)</kbd>
+
+<br />
+
+<!-- LICENSE -->
+
+## Licença
+
+Distribuído sob a licença MIT. Veja [`LICENSE`](./LICENSE) para mais informações.
